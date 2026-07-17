@@ -14445,6 +14445,11 @@
     <!-- Developer settings: select Grammatical gender dialog title [CHAR LIMIT=50]-->
     <string name="grammatical_gender_dialog_title">Select Grammatical gender</string>
 
+    <!-- Developer settings: GMS switch title [CHAR LIMIT=50] -->
+    <string name="gms_switch_title">Google Mobile Services</string>
+    <!-- Developer settings: GMS switch summary [CHAR LIMIT=80] -->
+    <string name="gms_switch_summary">Enable or disable Google Mobile Services</string>
+
     <!-- Title of preference to manage content protection settings -->
     <string name="content_protection_preference_title">Scanning for deceptive apps</string>
     <!-- Summary of the preference to manage content protection settings -->

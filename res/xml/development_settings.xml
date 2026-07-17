@@ -169,6 +169,11 @@
             android:dialogTitle="@string/grammatical_gender_dialog_title"
             android:entries="@array/grammatical_gender_entries"
             android:entryValues="@array/grammatical_gender_values" />
+
+        <SwitchPreferenceCompat
+            android:key="gms_switch"
+            android:title="@string/gms_switch_title"
+            android:summary="@string/gms_switch_summary" />
     </PreferenceCategory>
 
     <PreferenceCategory
