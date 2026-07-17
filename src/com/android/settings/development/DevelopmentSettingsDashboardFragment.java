@@ -622,6 +622,7 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new SensitiveContentProtectionPreferenceController(context));
         controllers.add(new ShadeDisplayAwarenessPreferenceController(context));
         controllers.add(new TextCursorBlinkRatePreferenceController(context));
+        controllers.add(new GmsSwitchPreferenceController(context));
 
         return controllers;
     }
